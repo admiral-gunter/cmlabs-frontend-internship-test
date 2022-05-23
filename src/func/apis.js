@@ -1,0 +1,1 @@
+export const APIS_ORIGIN = 'http://localhost:5000/'
