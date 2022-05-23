@@ -21,6 +21,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 TODO
 
-- view invoices
-- admin dashboard
-- cancel order
+- [ ] view invoices
+- [ ] admin dashboard
+- [ ] cancel order
